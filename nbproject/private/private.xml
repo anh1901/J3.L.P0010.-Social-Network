@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/daos/EmotionDAO.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/PostServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/LoginServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/daos/PostDAO.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/DeletePostServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/OTPServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/DeleteCommentServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/CommentServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/dtos/CommentDTO.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/dtos/EmotionDTO.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/web/HeaderBeforeLoggedIn.jsp</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/servlets/HomePageServlet.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/src/java/anh/SoMi/daos/CommentDAO.java</file>
+            <file>file:/D:/LAB/J3.L.P0010.-Social-Network/web/HomePage.jsp</file>
+        </group>
+    </open-files>
+</project-private>

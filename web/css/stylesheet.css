@@ -1,0 +1,59 @@
+.alert {
+    position: relative;
+    top: 60px;
+    background-color: #f44336;
+    color: white;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+table {
+    width: 550px;
+    padding: 10px;
+    background-color: #c5e7e0;
+    font-family: sans-serif;
+}
+
+td {
+    padding: 10px;
+}
+
+a {
+    color: #be7429;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.popupBox {
+    position: absolute;
+    left: 140px;
+}
+
+.popupCell {
+    background-color: #fffafa;
+}
+
+.popupCell:hover {
+    background-color: #f5ebe9;
+}
+
+.popupItem {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.2em;
+}
