@@ -26,7 +26,7 @@ import org.apache.log4j.Logger;
  */
 public class LoginServlet extends HttpServlet {
     final static Logger logger = Logger.getLogger(LoginServlet.class.getName());
-    private static final String ERROR = "index.jsp";
+    private static final String ERROR = "Index.jsp";
     private static final String OTP = "OTP.jsp";
     private String host;
     private String port;
